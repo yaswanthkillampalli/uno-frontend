@@ -1,0 +1,43 @@
+<svg width="85" height="140" viewBox="0 0 85 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Red Skip- 1">
+<g id="Green Skip- 3">
+<g id="Green- 0">
+<g clip-path="url(#clip0_8_42668)">
+<rect width="85" height="140" rx="8" fill="black"/>
+<rect id="Rectangle 1" x="5" y="8" width="75" height="124" rx="6" fill="#B01E35"/>
+<ellipse id="Ellipse 1" cx="42.7084" cy="70.0481" rx="65.4861" ry="30.7695" transform="rotate(-59.5565 42.7084 70.0481)" fill="black"/>
+<ellipse id="Ellipse 2" cx="42.7303" cy="69.6278" rx="57.8329" ry="27.1735" transform="rotate(-59.5565 42.7303 69.6278)" fill="#B01E35"/>
+</g>
+</g>
+<g id="Group 6">
+<path id="Ellipse 11" d="M60.5 72C60.5 80.5604 53.5604 87.5 45 87.5C36.4396 87.5 29.5 80.5604 29.5 72C29.5 63.4396 36.4396 56.5 45 56.5C53.5604 56.5 60.5 63.4396 60.5 72Z" stroke-width="7" stroke="#1E1E1E"/>
+<rect id="Rectangle 7" x="55.2493" y="59" width="4" height="32.8794" transform="rotate(45 55.2493 59)" fill="#1E1E1E"/>
+<path id="Ellipse 10" d="M58.5 70C58.5 78.5604 51.5604 85.5 43 85.5C34.4396 85.5 27.5 78.5604 27.5 70C27.5 61.4396 34.4396 54.5 43 54.5C51.5604 54.5 58.5 61.4396 58.5 70Z" stroke-width="7" stroke="#EAEAEC"/>
+<rect id="Rectangle 6" x="53.2493" y="57" width="4" height="32.8794" transform="rotate(45 53.2493 57)" fill="#EAEAEC"/>
+</g>
+<g id="Group 7">
+<g id="Rectangle 6_2">
+<path d="M23.0127 15L24.4269 16.4142L13.4141 27.427L11.9999 26.0128L23.0127 15Z" fill="#1E1E1E"/>
+<path d="M23.0127 15L24.4269 16.4142L13.4141 27.427L11.9999 26.0128L23.0127 15Z" fill="#1E1E1E"/>
+</g>
+<path id="Ellipse 10_2" d="M26 21C26 25.4183 22.4183 29 18 29C13.5817 29 10 25.4183 10 21C10 16.5817 13.5817 13 18 13C22.4183 13 26 16.5817 26 21Z" stroke-width="2" stroke="#1E1E1E"/>
+<g id="Rectangle 7_2">
+<path d="M22.0127 14L23.4269 15.4142L12.4141 26.427L10.9999 25.0128L22.0127 14Z" fill="#EAEAEC"/>
+<path d="M22.0127 14L23.4269 15.4142L12.4141 26.427L10.9999 25.0128L22.0127 14Z" fill="#EAEAEC"/>
+</g>
+<path id="Ellipse 11_2" d="M25 20C25 24.4183 21.4183 28 17 28C12.5817 28 9 24.4183 9 20C9 15.5817 12.5817 12 17 12C21.4183 12 25 15.5817 25 20Z" stroke-width="2" stroke="#EAEAEC"/>
+</g>
+<g id="Group 8">
+<path id="Ellipse 11_3" d="M75 119C75 123.418 71.4183 127 67 127C62.5817 127 59 123.418 59 119C59 114.582 62.5817 111 67 111C71.4183 111 75 114.582 75 119Z" stroke-width="2" stroke="#1E1E1E"/>
+<rect id="Rectangle 7_3" x="72.0127" y="113" width="2" height="15.5745" transform="rotate(45 72.0127 113)" fill="#1E1E1E"/>
+<path id="Ellipse 10_3" d="M76 120C76 124.418 72.4183 128 68 128C63.5817 128 60 124.418 60 120C60 115.582 63.5817 112 68 112C72.4183 112 76 115.582 76 120Z" stroke-width="2" stroke="#EAEAEC"/>
+<rect id="Rectangle 6_3" x="73.0127" y="114" width="2" height="15.5745" transform="rotate(45 73.0127 114)" fill="#EAEAEC"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_8_42668">
+<rect width="85" height="140" rx="8" fill="white"/>
+</clipPath>
+</defs>
+</svg>
